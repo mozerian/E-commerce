@@ -1,2 +1,2 @@
 # E-commerce
-Fully designed Ecommerce wordpress wensite
+Fully designed Ecommerce wordpress website
