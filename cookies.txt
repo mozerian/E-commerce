@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/ecommerce/	FALSE	1999999999	yith_wcwl_products	%5B%7B%22prod_id%22%3A%22173%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-01-14+22%3A57%3A39%22%7D%2C%7B%22prod_id%22%3A%22167%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-01-14+22%3A57%3A56%22%7D%2C%7B%22prod_id%22%3A%22171%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-01-14+22%3A58%3A05%22%7D%2C%7B%22prod_id%22%3A%22183%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-01-14+22%3A58%3A23%22%7D%2C%7B%22prod_id%22%3A%22142%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-01-14+22%3A58%3A43%22%7D%2C%7B%22prod_id%22%3A%22221%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-01-14+22%3A59%3A02%22%7D%2C%7B%22prod_id%22%3A%22145%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-01-14+22%3A59%3A22%22%7D%5D
+localhost	TRUE	/ecommerce/	FALSE	1999999999	woocommerce_recently_viewed	160%7C158%7C156%7C111%7C136%7C154%7C169%7C167%7C171%7C221%7C142%7C173%7C145%7C179%7C183
+localhost	TRUE	/	FALSE	1999999999	mailchimp_landing_site	http%3A%2F%2Flocalhost%2Fecommerce%2Fecommerce%2Fwp-content%2Fthemes%2Fdavinciwoo%2Fassets%2Fimages%2Fmastercard.svg
+.17track.net	TRUE	/	FALSE	1999999999	__cfduid	dfe6084981eb04d7be6fa135b7a1309bd1579038709
+www.17track.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+

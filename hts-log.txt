@@ -1,0 +1,155 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Jan 2020 00:37:36 at http://localhost/ecommerce/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/ecommerce/ -O1 "C:\Ecomerce\Ecomerce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:47:46	Error: 	"Method Not Allowed" (405) at link localhost/ecommerce/xmlrpc.php (from localhost/ecommerce/)
+01:04:51	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost/ecommerce/?add_to_wishlist=171 (from localhost/ecommerce/)
+01:33:58	Error: 	"Not Found" (404) at link localhost/ecommerce/wp-content/themes/davinciwoo/assets/images/mastercard.svg (from localhost/ecommerce/wp-content/themes/davinciwoo/assets/css/davinciwoo-shop.min.css?ver=1.1.4)
+01:35:06	Warning: 	Moved Permanently for localhost/ecommerce/?p=18
+01:35:06	Warning: 	File has moved from localhost/ecommerce/?p=18 to http://localhost/ecommerce/shipping-delivery/
+01:35:10	Warning: 	Moved Permanently for localhost/ecommerce/?p=12
+01:35:10	Warning: 	File has moved from localhost/ecommerce/?p=12 to http://localhost/ecommerce/contact-us/
+01:35:15	Warning: 	Moved Permanently for localhost/ecommerce/?p=20
+01:35:15	Warning: 	File has moved from localhost/ecommerce/?p=20 to http://localhost/ecommerce/track-your-order/
+01:35:23	Warning: 	Moved Permanently for localhost/ecommerce/?p=14
+01:35:23	Warning: 	File has moved from localhost/ecommerce/?p=14 to http://localhost/ecommerce/my-account/
+01:36:01	Warning: 	Moved Permanently for localhost/ecommerce/?p=21
+01:36:01	Warning: 	File has moved from localhost/ecommerce/?p=21 to http://localhost/ecommerce/my-account/wishlist/
+01:39:06	Warning: 	Moved Permanently for localhost/ecommerce/?p=183
+01:39:06	Warning: 	File has moved from localhost/ecommerce/?p=183 to http://localhost/ecommerce/product/rufus-shoes/
+01:39:48	Warning: 	Moved Permanently for localhost/ecommerce/?p=145
+01:39:48	Warning: 	File has moved from localhost/ecommerce/?p=145 to http://localhost/ecommerce/product/fashion-shirt/
+01:39:57	Warning: 	Moved Permanently for localhost/ecommerce/?p=154
+01:39:57	Warning: 	File has moved from localhost/ecommerce/?p=154 to http://localhost/ecommerce/product/american-dress/
+01:40:32	Warning: 	Moved Permanently for localhost/ecommerce/?p=179
+01:40:32	Warning: 	File has moved from localhost/ecommerce/?p=179 to http://localhost/ecommerce/product/best-design/
+01:40:39	Warning: 	Moved Permanently for localhost/ecommerce/?p=169
+01:40:39	Warning: 	File has moved from localhost/ecommerce/?p=169 to http://localhost/ecommerce/product/pp-design/
+01:41:01	Warning: 	Moved Permanently for localhost/ecommerce/?p=214
+01:41:01	Warning: 	File has moved from localhost/ecommerce/?p=214 to http://localhost/ecommerce/product/british-design/
+01:41:21	Warning: 	Moved Permanently for localhost/ecommerce/?p=141
+01:41:21	Warning: 	File has moved from localhost/ecommerce/?p=141 to http://localhost/ecommerce/product/woolen/
+01:42:37	Warning: 	Moved Permanently for localhost/ecommerce/?p=171
+01:42:37	Warning: 	File has moved from localhost/ecommerce/?p=171 to http://localhost/ecommerce/product/modern-dress/
+01:43:04	Warning: 	Moved Permanently for localhost/ecommerce/?p=221
+01:43:04	Warning: 	File has moved from localhost/ecommerce/?p=221 to http://localhost/ecommerce/product/indian-fashion/
+01:43:20	Warning: 	Moved Permanently for localhost/ecommerce/?p=142
+01:43:20	Warning: 	File has moved from localhost/ecommerce/?p=142 to http://localhost/ecommerce/product/khaki/
+01:43:30	Warning: 	Moved Permanently for localhost/ecommerce/?p=173
+01:43:30	Warning: 	File has moved from localhost/ecommerce/?p=173 to http://localhost/ecommerce/product/latest-design/
+01:43:57	Warning: 	Moved Permanently for localhost/ecommerce/?p=223
+01:43:57	Warning: 	File has moved from localhost/ecommerce/?p=223 to http://localhost/ecommerce/product/cacoon-design/
+01:44:10	Warning: 	Moved Permanently for localhost/ecommerce/?p=175
+01:44:10	Warning: 	File has moved from localhost/ecommerce/?p=175 to http://localhost/ecommerce/product/sport-shoes/
+01:44:23	Warning: 	Moved Permanently for localhost/ecommerce/?p=224
+01:44:23	Warning: 	File has moved from localhost/ecommerce/?p=224 to http://localhost/ecommerce/product/side-pocket/
+01:44:44	Warning: 	Moved Permanently for localhost/ecommerce/?p=147
+01:44:44	Warning: 	File has moved from localhost/ecommerce/?p=147 to http://localhost/ecommerce/product/cotton-shirt/
+01:44:51	Warning: 	Moved Permanently for localhost/ecommerce/?p=177
+01:44:51	Warning: 	File has moved from localhost/ecommerce/?p=177 to http://localhost/ecommerce/product/nike/
+01:44:53	Warning: 	Retry after error -2 (Receive Time Out) at link localhost/ecommerce/product/nike/?add_to_wishlist=175 (from localhost/ecommerce/product/nike/)
+01:45:03	Warning: 	Moved Permanently for localhost/ecommerce/?p=212
+01:45:03	Warning: 	File has moved from localhost/ecommerce/?p=212 to http://localhost/ecommerce/product/modern-material/
+01:45:15	Warning: 	Moved Permanently for localhost/ecommerce/?p=210
+01:45:15	Warning: 	File has moved from localhost/ecommerce/?p=210 to http://localhost/ecommerce/product/latest-fashion/
+01:45:18	Warning: 	Moved Permanently for localhost/ecommerce/?p=187
+01:45:18	Warning: 	File has moved from localhost/ecommerce/?p=187 to http://localhost/ecommerce/product/nylon/
+01:45:29	Warning: 	Moved Permanently for localhost/ecommerce/?p=181
+01:45:29	Warning: 	File has moved from localhost/ecommerce/?p=181 to http://localhost/ecommerce/product/black-shoes/
+01:45:39	Warning: 	Moved Permanently for localhost/ecommerce/?p=167
+01:45:39	Warning: 	File has moved from localhost/ecommerce/?p=167 to http://localhost/ecommerce/product/karaoke/
+01:46:10	Warning: 	Moved Permanently for localhost/ecommerce/?p=165
+01:46:10	Warning: 	File has moved from localhost/ecommerce/?p=165 to http://localhost/ecommerce/product/asian-design/
+01:46:35	Warning: 	Moved Permanently for localhost/ecommerce/?p=160
+01:46:35	Warning: 	File has moved from localhost/ecommerce/?p=160 to http://localhost/ecommerce/product/fashion/
+01:46:56	Warning: 	Moved Permanently for localhost/ecommerce/?p=158
+01:46:56	Warning: 	File has moved from localhost/ecommerce/?p=158 to http://localhost/ecommerce/product/quality-ninja-dress/
+01:47:19	Warning: 	Moved Permanently for localhost/ecommerce/?p=156
+01:47:19	Warning: 	File has moved from localhost/ecommerce/?p=156 to http://localhost/ecommerce/product/popucine-dress-fashion/
+01:47:30	Warning: 	Moved Permanently for localhost/ecommerce/?p=7
+01:47:30	Warning: 	File has moved from localhost/ecommerce/?p=7 to http://localhost/ecommerce/about-us/
+01:47:32	Warning: 	Moved Permanently for localhost/ecommerce/?p=16
+01:47:32	Warning: 	File has moved from localhost/ecommerce/?p=16 to http://localhost/ecommerce/privacy-policy/
+01:47:32	Warning: 	Moved Permanently for localhost/ecommerce/?p=19
+01:47:32	Warning: 	File has moved from localhost/ecommerce/?p=19 to http://localhost/ecommerce/terms-and-conditions/
+01:47:33	Warning: 	Moved Permanently for localhost/ecommerce/?p=15
+01:47:33	Warning: 	File has moved from localhost/ecommerce/?p=15 to http://localhost/ecommerce/payment-methods/
+01:47:33	Warning: 	Moved Permanently for localhost/ecommerce/?p=17
+01:47:33	Warning: 	File has moved from localhost/ecommerce/?p=17 to http://localhost/ecommerce/returns-policy/
+01:47:33	Warning: 	Moved Permanently for localhost/ecommerce/?p=13
+01:47:33	Warning: 	File has moved from localhost/ecommerce/?p=13 to http://localhost/ecommerce/frequently-asked-questions/
+01:50:45	Warning: 	Moved Permanently for localhost/ecommerce/?p=111
+01:50:45	Warning: 	File has moved from localhost/ecommerce/?p=111 to http://localhost/ecommerce/product/indian-suit/
+01:50:55	Warning: 	Moved Permanently for localhost/ecommerce/?p=133
+01:50:55	Warning: 	File has moved from localhost/ecommerce/?p=133 to http://localhost/ecommerce/product/black-suit/
+01:50:59	Warning: 	Moved Permanently for localhost/ecommerce/?p=136
+01:50:59	Warning: 	File has moved from localhost/ecommerce/?p=136 to http://localhost/ecommerce/product/javel-suit/
+01:51:42	Warning: 	Moved Permanently for localhost/ecommerce/?p=140
+01:51:42	Warning: 	File has moved from localhost/ecommerce/?p=140 to http://localhost/ecommerce/product/fresh-design/
+01:54:33	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/
+01:54:33	Warning: 	File has moved from localhost/ecommerce/shop/page/1/ to http://localhost/ecommerce/shop/
+01:56:00	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=154
+01:56:00	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=154 to http://localhost/ecommerce/shop/?add_to_wishlist=154
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=165
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=165 to http://localhost/ecommerce/shop/?add_to_wishlist=165
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=179
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=179 to http://localhost/ecommerce/shop/?add_to_wishlist=179
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=181
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=181 to http://localhost/ecommerce/shop/?add_to_wishlist=181
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=133
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=133 to http://localhost/ecommerce/shop/?add_to_wishlist=133
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=214
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=214 to http://localhost/ecommerce/shop/?add_to_wishlist=214
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=223
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=223 to http://localhost/ecommerce/shop/?add_to_wishlist=223
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=147
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=147 to http://localhost/ecommerce/shop/?add_to_wishlist=147
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=160
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=160 to http://localhost/ecommerce/shop/?add_to_wishlist=160
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=145
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=145 to http://localhost/ecommerce/shop/?add_to_wishlist=145
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=140
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=140 to http://localhost/ecommerce/shop/?add_to_wishlist=140
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=221
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=221 to http://localhost/ecommerce/shop/?add_to_wishlist=221
+01:56:01	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=111
+01:56:01	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=111 to http://localhost/ecommerce/shop/?add_to_wishlist=111
+01:56:02	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=136
+01:56:02	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=136 to http://localhost/ecommerce/shop/?add_to_wishlist=136
+01:56:08	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=167
+01:56:08	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=167 to http://localhost/ecommerce/shop/?add_to_wishlist=167
+01:56:11	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=142
+01:56:11	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=142 to http://localhost/ecommerce/shop/?add_to_wishlist=142
+01:56:17	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=173
+01:56:17	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=173 to http://localhost/ecommerce/shop/?add_to_wishlist=173
+01:56:19	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=210
+01:56:19	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=210 to http://localhost/ecommerce/shop/?add_to_wishlist=210
+01:56:27	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=171
+01:56:27	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=171 to http://localhost/ecommerce/shop/?add_to_wishlist=171
+01:56:28	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=212
+01:56:28	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=212 to http://localhost/ecommerce/shop/?add_to_wishlist=212
+01:56:35	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=177
+01:56:35	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=177 to http://localhost/ecommerce/shop/?add_to_wishlist=177
+01:56:36	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=187
+01:56:36	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=187 to http://localhost/ecommerce/shop/?add_to_wishlist=187
+01:56:44	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=156
+01:56:44	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=156 to http://localhost/ecommerce/shop/?add_to_wishlist=156
+01:56:44	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=169
+01:56:44	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=169 to http://localhost/ecommerce/shop/?add_to_wishlist=169
+01:56:56	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=158
+01:56:56	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=158 to http://localhost/ecommerce/shop/?add_to_wishlist=158
+01:56:57	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=183
+01:56:57	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=183 to http://localhost/ecommerce/shop/?add_to_wishlist=183
+01:57:05	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=224
+01:57:05	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=224 to http://localhost/ecommerce/shop/?add_to_wishlist=224
+01:57:06	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=175
+01:57:06	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=175 to http://localhost/ecommerce/shop/?add_to_wishlist=175
+01:57:13	Warning: 	Moved Permanently for localhost/ecommerce/shop/page/1/?add_to_wishlist=141
+01:57:13	Warning: 	File has moved from localhost/ecommerce/shop/page/1/?add_to_wishlist=141 to http://localhost/ecommerce/shop/?add_to_wishlist=141
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 21 minutes 52 seconds : 949 links scanned, 874 files written (65817369 bytes overall) [66627702 bytes received at 13564 bytes/sec], 30858 bytes transferred using HTTP compression in 1 files, ratio 38%, 1.2 requests per connection
+(2 errors, 142 warnings, 0 messages)
